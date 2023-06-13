@@ -1,2 +1,2 @@
 # haspac
-Search for Hadamard Submatrices in Paley Cores
+Search for **Ha**damard **S**ubmatrices in **Pa**ley **C**ores
