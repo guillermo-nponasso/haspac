@@ -1,0 +1,18 @@
+[{
+  "prime": 11,
+  "hadamard_order": 4,
+  "row_indices": [4, 5, 6, 7],
+  "col_indices": [1, 8, 10, 3]
+},
+{
+  "prime": 13,
+  "hadamard_order": 4,
+  "row_indices": [0, 4, 7, 11],
+  "col_indices": [6, 5, 3, 8]
+},
+{
+  "prime": 17,
+  "hadamard_order": 4,
+  "row_indices": [1, 5, 7, 16],
+  "col_indices": [11, 10, 13, 12]
+}]

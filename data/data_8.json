@@ -1,0 +1,126 @@
+{
+  "prime": 101,
+  "hadamard_order": 8,
+  "row_indices": [2, 8, 12, 14, 27, 28, 71, 96],
+  "col_indices": [19, 79, 11, 56, 70, 40, 5, 22]
+}
+{
+  "prime": 103,
+  "hadamard_order": 8,
+  "row_indices": [2, 3, 30, 33, 48, 62, 78, 99],
+  "col_indices": [73, 83, 68, 101, 91, 95, 14, 53]
+}
+{
+  "prime": 107,
+  "hadamard_order": 8,
+  "row_indices": [16, 28, 53, 55, 56, 90, 92, 106],
+  "col_indices": [100, 70, 11, 76, 105, 8, 69, 38]
+}
+{
+  "prime": 109,
+  "hadamard_order": 8,
+  "row_indices": [13, 18, 37, 63, 64, 70, 86, 104],
+  "col_indices": [67, 15, 56, 102, 44, 25, 53, 28]
+}
+{
+  "prime": 113,
+  "hadamard_order": 8,
+  "row_indices": [2, 10, 17, 39, 72, 73, 81, 104],
+  "col_indices": [48, 31, 112, 14, 76, 108, 98, 33]
+}
+{
+  "prime": 127,
+  "hadamard_order": 8,
+  "row_indices": [5, 12, 17, 30, 39, 47, 63, 122],
+  "col_indices": [61, 104, 55, 2, 21, 75, 6, 45]
+}
+{
+  "prime": 131,
+  "hadamard_order": 8,
+  "row_indices": [3, 13, 19, 48, 52, 64, 65, 87],
+  "col_indices": [69, 47, 37, 55, 84, 112, 117, 79]
+}
+{
+  "prime": 137,
+  "hadamard_order": 8,
+  "row_indices": [2, 5, 7, 8, 29, 61, 67, 113],
+  "col_indices": [34, 47, 84, 88, 133, 92, 99, 64]
+}
+{
+  "prime": 139,
+  "hadamard_order": 8,
+  "row_indices": [1, 9, 19, 39, 45, 74, 104, 115],
+  "col_indices": [129, 136, 102, 106, 18, 57, 79, 124]
+}
+{
+  "prime": 149,
+  "hadamard_order": 8,
+  "row_indices": [38, 60, 79, 82, 114, 128, 133, 140],
+  "col_indices": [78, 48, 135, 33, 92, 65, 99, 95]
+}
+{
+  "prime": 151,
+  "hadamard_order": 8,
+  "row_indices": [19, 39, 68, 87, 98, 103, 141, 144],
+  "col_indices": [28, 40, 44, 108, 57, 104, 118, 42]
+}
+{
+  "prime": 157,
+  "hadamard_order": 8,
+  "row_indices": [2, 19, 29, 49, 99, 103, 152, 156],
+  "col_indices": [100, 65, 67, 141, 64, 81, 98, 106]
+}
+{
+  "prime": 163,
+  "hadamard_order": 8,
+  "row_indices": [9, 22, 30, 40, 53, 78, 132, 133],
+  "col_indices": [38, 96, 65, 131, 5, 124, 117, 54]
+}
+{
+  "prime": 167,
+  "hadamard_order": 8,
+  "row_indices": [4, 29, 31, 46, 60, 113, 150, 161],
+  "col_indices": [164, 108, 17, 119, 157, 143, 92, 158]
+}
+{
+  "prime": 173,
+  "hadamard_order": 8,
+  "row_indices": [3, 67, 83, 85, 132, 166, 167, 172],
+  "col_indices": [11, 71, 109, 123, 56, 74, 24, 140]
+}
+{
+  "prime": 179,
+  "hadamard_order": 8,
+  "row_indices": [4, 6, 29, 36, 48, 72, 115, 126],
+  "col_indices": [39, 30, 76, 85, 51, 131, 77, 64]
+}
+{
+  "prime": 181,
+  "hadamard_order": 8,
+  "row_indices": [69, 74, 87, 93, 110, 137, 158, 168],
+  "col_indices": [143, 20, 166, 170, 179, 35, 153, 68]
+}
+{
+  "prime": 191,
+  "hadamard_order": 8,
+  "row_indices": [8, 75, 88, 100, 108, 140, 185, 190],
+  "col_indices": [28, 12, 184, 130, 177, 23, 2, 94]
+}
+{
+  "prime": 193,
+  "hadamard_order": 8,
+  "row_indices": [28, 45, 48, 62, 80, 120, 181, 182],
+  "col_indices": [95, 23, 129, 142, 72, 149, 116, 69]
+}
+{
+  "prime": 197,
+  "hadamard_order": 8,
+  "row_indices": [6, 15, 103, 127, 129, 181, 187, 190],
+  "col_indices": [116, 131, 174, 170, 69, 61, 20, 135]
+}
+{
+  "prime": 199,
+  "hadamard_order": 8,
+  "row_indices": [2, 7, 10, 18, 83, 147, 152, 161],
+  "col_indices": [116, 103, 59, 149, 157, 88, 97, 177]
+}
