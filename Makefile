@@ -1,4 +1,4 @@
-CLIQUER_DIR = ~/libraries/cliquer
+CLIQUER_DIR ?= ~/libraries/cliquer
 
 # Cliquer source files
 CLSRC := $(CLIQUER_DIR)/cliquer.c $(CLIQUER_DIR)/graph.c $(CLIQUER_DIR)/reorder.c
