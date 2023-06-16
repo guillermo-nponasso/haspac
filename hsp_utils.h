@@ -12,6 +12,7 @@ void hsp_allocmat(int*** M, int m, int n);
 void hsp_freemat(int*** M, int m, int n);
 void hsp_dispmat(int*** M, int m, int n);
 int hsp_inArray(int i, int l, int* v);
+void hsp_paley_small(int p, int nrows, int ncols, int* row_ix, int* col_ix, int*** Q);
 void hsp_paley_ix(int p, int h, int* ix, int* rx, int*** Q);
 int hsp_areOrthogonal(int i, int j, int len, int*** Q);
 int hsp_areOrthogonal_ix(int i, int j, int len, int* ix, int*** Q);

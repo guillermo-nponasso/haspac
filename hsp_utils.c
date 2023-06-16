@@ -78,6 +78,18 @@ int hsp_inArray(int i, int l, int* v)
   return 0;
 }
 
+void hsp_paley_small(int p, int nrows, int ncols, int* row_ix, int* col_ix, int***Q){
+  int i_ix, j_ix;
+  for(int i=0; i<nrows; i++){
+    i_ix=row_ix[i];
+    for(int j=0; j<ncols; j++){
+      j_ix=col_ix[j];
+      (*Q)[i][j]=(1-hsp_jacobi(p+(j_ix-i_ix),p))/2;
+    }
+  }
+}
+  
+
 void hsp_paley_ix(int p, int h, int* ix, int* rx, int*** Q)
 // Q is at least a pxh array, and len(ix)=h
 // assuming: ix[h-1]<p
